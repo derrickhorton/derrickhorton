@@ -5,7 +5,7 @@ I bring a practical, results-driven approach to cybersecurity. My experience spa
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/)**
+- **[Vulnerability Management Program Implementation](https://github.com/derrickhorton/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and Bash)](https://github.com/)**
 
 ## 🚨 Threat Hunting and Security Operations
