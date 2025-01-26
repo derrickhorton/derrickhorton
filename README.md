@@ -10,7 +10,7 @@ I bring a practical, results-driven approach to cybersecurity. My experience spa
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/derrickhorton/threat-hunting-scenario-tor)**
 
 <hr/>
 
